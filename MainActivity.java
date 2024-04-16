@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    public String sign = "0";
+    public String sign = "";
     public Double tempDouble, tempDouble2;
 
     @Override
